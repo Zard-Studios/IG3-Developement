@@ -12,7 +12,7 @@ al momento non sappiamo la data esatta dell'uscita del gioco, pertanto qui potre
 
 #### se il testo è assegnato con una spunta inziale vuol dire che sarà pronta all'uso
 - [x] 🟢 YAY :tada:
-#### se il testo è assegnato con una spunta inziale con il simbolo arancione vuol dire che in futuro ci sarà qualche toccatina
+#### se il testo è assegnato con una spunta inziale con il simbolo giallo vuol dire che in futuro ci sarà qualche toccatina
 - [x] 🟡 OK.
 
 
