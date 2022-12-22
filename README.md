@@ -24,6 +24,10 @@ al momento non sappiamo la data esatta dell'uscita del gioco, pertanto qui potre
 - [ ] 🔴 Effetti Sonori.
 - [ ] 🔴 Effetti Mixer.
 - [ ] 🔴 Test Dispositivi mobili.
+- [ ] 🔴 Test Build Windows.
+- [ ] 🔴 Test Build Linux.
+- [ ] 🟡 Test Build MacOS Silicon.
+- [ ] 🔴 Test Build MacOS Intel.
 - [ ] 🔴 World Mode.
 - [ ] 🔴 Hardcore Mode.
 - [ ] 🟢 Normal Mode.
