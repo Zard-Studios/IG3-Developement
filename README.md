@@ -17,18 +17,24 @@ al momento non sappiamo la data esatta dell'uscita del gioco, pertanto qui potre
 
 
 ## Sviluppo
+
+### Home
+- [ ] 🟢 Home.
+
+### Gioco
 - [ ] 🔴 Multiplayer (Nessun server disponibile o settato)
 - [x] 🟡 Negozio e Personaggi
 - [ ] 🟡 Grafica Post-Processing.
 - [ ] 🔴 Musica.
 - [ ] 🔴 Effetti Sonori.
 - [ ] 🔴 Effetti Mixer.
+- [ ] 🔴 World Mode.
+- [ ] 🔴 Hardcore Mode.
+- [ ] 🟢 Normal Mode.
+
+### Test
 - [ ] 🔴 Test Dispositivi mobili.
 - [ ] 🔴 Test Build Windows.
 - [ ] 🔴 Test Build Linux.
 - [ ] 🟡 Test Build MacOS Silicon.
 - [ ] 🔴 Test Build MacOS Intel.
-- [ ] 🔴 World Mode.
-- [ ] 🔴 Hardcore Mode.
-- [ ] 🟢 Normal Mode.
-- [ ] 🟢 Home.
