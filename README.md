@@ -24,7 +24,7 @@ al momento non sappiamo la data esatta dell'uscita del gioco, pertanto qui potre
 ### Gioco
 - [ ] 🔴 Multiplayer (Nessun server disponibile o settato)
 - [x] 🟡 Negozio e Personaggi
-- [ ] 🟡 Grafica Post-Processing.
+- [x] 🟡 Grafica Post-Processing.
 - [ ] 🔴 Musica.
 - [ ] 🔴 Effetti Sonori.
 - [ ] 🔴 Effetti Mixer.
