@@ -30,7 +30,7 @@ al momento non sappiamo la data esatta dell'uscita del gioco, pertanto qui potre
 - [ ] 🔴 Effetti Mixer.
 - [ ] 🔴 World Mode.
 - [ ] 🔴 Hardcore Mode.
-- [ ] 🟢 Normal Mode.
+- [x] 🟢 Normal Mode.
 
 ### Test
 - [ ] 🔴 Test Dispositivi mobili.
