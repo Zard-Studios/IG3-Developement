@@ -35,7 +35,7 @@ al momento non sappiamo la data esatta dell'uscita del gioco, pertanto qui potre
 
 ### Test
 - [ ] 🔴 Test Dispositivi mobili.
-- [ ] 🔴 Test Build Windows.
+- [ ] 🟡 Test Build Windows.
 - [ ] 🔴 Test Build Linux.
-- [ ] 🟡 Test Build MacOS Silicon.
-- [ ] 🔴 Test Build MacOS Intel.
+- [ ] 🟢 Test Build MacOS Silicon.
+- [ ] 🟡 Test Build MacOS Intel.
