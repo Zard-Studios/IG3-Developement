@@ -20,6 +20,7 @@ al momento non sappiamo la data esatta dell'uscita del gioco, pertanto qui potre
 
 ### Home
 - [ ] 🟢 Home.
+- [ ] 🟡 Musica.
 
 ### Gioco
 - [ ] 🔴 Multiplayer (Nessun server disponibile o settato)
