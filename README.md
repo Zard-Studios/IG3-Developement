@@ -33,6 +33,10 @@ al momento non sappiamo la data esatta dell'uscita del gioco, pertanto qui potre
 - [ ] 🔴 Hardcore Mode.
 - [x] 🟢 Normal Mode.
 
+### Party
+- [ ] 🔴 World Mode.
+- [ ] 🔴 Minigames.
+
 ### Test
 - [ ] 🟡 Test Dispositivi mobili.
 - [x] 🟢 Test Build Windows.
