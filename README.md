@@ -20,11 +20,11 @@ al momento non sappiamo la data esatta dell'uscita del gioco, pertanto qui potre
 
 ### Home
 - [ ] 🟢 Home.
-- [ ] 🟡 Musica.
+- [ ] 🟢 Musica.
 
 ### Gioco
 - [ ] 🔴 Multiplayer (Nessun server disponibile o settato)
-- [x] 🟡 Negozio e Personaggi
+- [ ] 🔴 Negozio e Personaggi
 - [x] 🟡 Grafica Post-Processing.
 - [ ] 🔴 Musica.
 - [ ] 🔴 Effetti Sonori.
@@ -34,8 +34,8 @@ al momento non sappiamo la data esatta dell'uscita del gioco, pertanto qui potre
 - [x] 🟢 Normal Mode.
 
 ### Test
-- [ ] 🔴 Test Dispositivi mobili.
-- [ ] 🟡 Test Build Windows.
-- [ ] 🔴 Test Build Linux.
-- [ ] 🟢 Test Build MacOS Silicon.
+- [ ] 🟡 Test Dispositivi mobili.
+- [x] 🟢 Test Build Windows.
+- [ ] 🟡 Test Build Linux.
+- [x] 🟢 Test Build MacOS Silicon.
 - [ ] 🟡 Test Build MacOS Intel.
