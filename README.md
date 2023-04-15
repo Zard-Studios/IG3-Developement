@@ -38,7 +38,7 @@ al momento non sappiamo la data esatta dell'uscita del gioco, pertanto qui potre
 - [ ] 🔴 Minigames.
 
 ### Test
-- [ ] 🟡 Test Dispositivi mobili.
+- [x] 🟢 Test Dispositivi mobili.
 - [x] 🟢 Test Build Windows.
 - [ ] 🟡 Test Build Linux.
 - [x] 🟢 Test Build MacOS Silicon.
